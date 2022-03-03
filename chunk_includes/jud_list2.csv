@@ -1,0 +1,681 @@
+context_id,pair_id,verb,s1,s2
+44,1453,loved,The queen recognized which nobleman the comedian had loved.,The queen recognized which comedian the nobleman had loved.
+16,485,killed,The documentarian showed which piglets the agriculturalist had killed.,The documentarian showed which agriculturalist the piglets had killed.
+52,1702,stabbed,The policeman knew which suspect the detective had stabbed.,The policeman knew which detective the suspect had stabbed.
+12,331,identified,The researcher learned which biologist the whale had identified.,The researcher learned which whale the biologist had identified.
+12,334,swallowed,The researcher learned which whale the biologist had swallowed.,The researcher learned which biologist the whale had swallowed.
+52,1707,escaped,The policeman knew which detective the suspect had escaped.,The policeman knew which suspect the detective had escaped.
+50,1621,chosen,The military man knew which soldiers the general had chosen.,The military man knew which general the soldiers had chosen.
+24,749,liked,The high schooler heard which geek the jock had liked.,The high schooler heard which jock the geek had liked.
+7,177,run,The naturalist observed which deer the predators had run.,The naturalist observed which predators the deer had run.
+48,1539,laughed,The committee member guessed which president the advisors had laughed.,The committee member guessed which advisors the president had laughed.
+37,1156,chosen,The broadcaster explained which contestant the judge had chosen.,The broadcaster explained which judge the contestant had chosen.
+43,1411,jumped,The producer observed which acrobats the viewers had jumped.,The producer observed which viewers the acrobats had jumped.
+23,715,applauded,The dance instructor noticed which onlookers the performers had applauded.,The dance instructor noticed which performers the onlookers had applauded.
+41,1306,kissed,The opera composer revealed which singer the pirate had kissed.,The opera composer revealed which pirate the singer had kissed.
+36,1140,loved,Tonia explained which housewife the conman had loved.,Tonia explained which conman the housewife had loved.
+19,569,tamed,The trapeze artist indicated which trainer the lion had tamed.,The trapeze artist indicated which lion the trainer had tamed.
+30,937,mauled,The Indian king identified which prince the elephant had mauled.,The Indian king identified which elephant the prince had mauled.
+4,86,arrested,The historian documented which prince the assassin had arrested.,The historian documented which assassin the prince had arrested.
+41,1300,looted,The opera composer revealed which singer the pirate had looted.,The opera composer revealed which pirate the singer had looted.
+4,76,run into,The historian documented which prince the assassin had run into.,The historian documented which assassin the prince had run into.
+34,1070,encountered,The sheriff recalled which gangsters the locals had encountered.,The sheriff recalled which locals the gangsters had encountered.
+58,1967,multiplied,The farmhand recorded which breeder the goats had multiplied.,The farmhand recorded which goats the breeder had multiplied.
+47,1524,speared,The boatman saw which shark the diver had speared.,The boatman saw which diver the shark had speared.
+50,1633,fired,The military man knew which general the soldiers had fired.,The military man knew which soldiers the general had fired.
+39,1262,molested,The family counselor understood which stepparent the daughter had molested.,The family counselor understood which daughter the stepparent had molested.
+42,1350,raped,The prison warden guessed which jailer the inmate had raped.,The prison warden guessed which inmate the jailer had raped.
+21,658,conned,The aid worker realized which philanthropist the refugees had conned.,The aid worker realized which refugees the philanthropist had conned.
+20,609,fed,The wildlife curator mentioned which ape the zookeeper had fed.,The wildlife curator mentioned which zookeeper the ape had fed.
+60,2040,robbed,The security guard investigated which loiterer the patrolman had robbed.,The security guard investigated which patrolman the loiterer had robbed.
+12,333,existed,The researcher learned which whale the biologist had existed.,The researcher learned which biologist the whale had existed.
+52,1690,shown,The policeman knew which detective the suspect had shown.,The policeman knew which suspect the detective had shown.
+15,422,met,The columnist publicized which celebrity the photographer had met.,The columnist publicized which photographer the celebrity had met.
+39,1227,feared,The family counselor understood which daughter the stepparent had feared.,The family counselor understood which stepparent the daughter had feared.
+28,865,seen,The bird watcher saw which hawk the photographer had seen.,The bird watcher saw which photographer the hawk had seen.
+30,924,stomped,The Indian king identified which prince the elephant had stomped.,The Indian king identified which elephant the prince had stomped.
+24,745,picked on,The high schooler heard which geek the jock had picked on.,The high schooler heard which jock the geek had picked on.
+42,1344,known,The prison warden guessed which jailer the inmate had known.,The prison warden guessed which inmate the jailer had known.
+34,1050,feared,The sheriff recalled which locals the gangsters had feared.,The sheriff recalled which gangsters the locals had feared.
+48,1557,heeded,The committee member guessed which advisors the president had heeded.,The committee member guessed which president the advisors had heeded.
+29,901,befriended,The costume designer confirmed which actor the barber had befriended.,The costume designer confirmed which barber the actor had befriended.
+17,507,recognized,The police officer noted which jeweler the burglar had recognized.,The police officer noted which burglar the jeweler had recognized.
+52,1692,witnessed,The policeman knew which detective the suspect had witnessed.,The policeman knew which suspect the detective had witnessed.
+23,721,liked,The dance instructor noticed which onlookers the performers had liked.,The dance instructor noticed which performers the onlookers had liked.
+50,1626,spoken,The military man knew which general the soldiers had spoken.,The military man knew which soldiers the general had spoken.
+52,1729,hurt,The policeman knew which suspect the detective had hurt.,The policeman knew which detective the suspect had hurt.
+30,932,wanted,The Indian king identified which elephant the prince had wanted.,The Indian king identified which prince the elephant had wanted.
+21,663,brought,The aid worker realized which philanthropist the refugees had brought.,The aid worker realized which refugees the philanthropist had brought.
+44,1444,parodied,The queen recognized which comedian the nobleman had parodied.,The queen recognized which nobleman the comedian had parodied.
+51,1679,berated,The parole officer confirmed which delinquent the psychologist had berated.,The parole officer confirmed which psychologist the delinquent had berated.
+48,1558,fired,The committee member guessed which advisors the president had fired.,The committee member guessed which president the advisors had fired.
+45,1484,fornicated,The reporter inquired which groomer the animals had fornicated.,The reporter inquired which animals the groomer had fornicated.
+53,1748,spoken,The priest knew which exorcist the demon had spoken.,The priest knew which demon the exorcist had spoken.
+14,418,loved,The birthday boy saw which friend the clown had loved.,The birthday boy saw which clown the friend had loved.
+31,941,mentioned,The investigator discovered which couple the abductor had mentioned.,The investigator discovered which abductor the couple had mentioned.
+9,215,seduced,The head nun explained which friar the temptress had seduced.,The head nun explained which temptress the friar had seduced.
+42,1361,executed,The prison warden guessed which inmate the jailer had executed.,The prison warden guessed which jailer the inmate had executed.
+41,1339,known,The opera composer revealed which pirate the singer had known.,The opera composer revealed which singer the pirate had known.
+52,1695,investigated,The policeman knew which detective the suspect had investigated.,The policeman knew which suspect the detective had investigated.
+15,429,punched,The columnist publicized which celebrity the photographer had punched.,The columnist publicized which photographer the celebrity had punched.
+36,1141,robbed,Tonia explained which conman the housewife had robbed.,Tonia explained which housewife the conman had robbed.
+16,480,preferred,The documentarian showed which piglets the agriculturalist had preferred.,The documentarian showed which agriculturalist the piglets had preferred.
+31,965,robbed,The investigator discovered which abductor the couple had robbed.,The investigator discovered which couple the abductor had robbed.
+2,35,witnessed,The old widower remembered which ghost the villager had witnessed.,The old widower remembered which villager the ghost had witnessed.
+37,1151,witnessed,The broadcaster explained which judge the contestant had witnessed.,The broadcaster explained which contestant the judge had witnessed.
+60,2026,noticed,The security guard investigated which patrolman the loiterer had noticed.,The security guard investigated which loiterer the patrolman had noticed.
+19,584,jumped,The trapeze artist indicated which trainer the lion had jumped.,The trapeze artist indicated which lion the trainer had jumped.
+58,1972,lifted,The farmhand recorded which breeder the goats had lifted.,The farmhand recorded which goats the breeder had lifted.
+55,1863,died,Teresa knew which parrot the neighbor had died.,Teresa knew which neighbor the parrot had died.
+8,189,reviewed,The restaurant owner forgot which waitress the customer had reviewed.,The restaurant owner forgot which customer the waitress had reviewed.
+14,392,entertained,The birthday boy saw which friend the clown had entertained.,The birthday boy saw which clown the friend had entertained.
+43,1391,seen,The producer observed which viewers the acrobats had seen.,The producer observed which acrobats the viewers had seen.
+59,1985,saved,The four-year-old knew which dragon the hero had saved.,The four-year-old knew which hero the dragon had saved.
+54,1788,struck,Jack observed which conductor the passenger had struck.,Jack observed which passenger the conductor had struck.
+27,829,dismissed,The travel agent recorded which innkeeper the guests had dismissed.,The travel agent recorded which guests the innkeeper had dismissed.
+60,2027,caught,The security guard investigated which loiterer the patrolman had caught.,The security guard investigated which patrolman the loiterer had caught.
+27,856,interacted,The travel agent recorded which innkeeper the guests had interacted.,The travel agent recorded which guests the innkeeper had interacted.
+12,339,tagged,The researcher learned which whale the biologist had tagged.,The researcher learned which biologist the whale had tagged.
+60,2006,whipped,The security guard investigated which patrolman the loiterer had whipped.,The security guard investigated which loiterer the patrolman had whipped.
+21,665,swindled,The aid worker realized which refugees the philanthropist had swindled.,The aid worker realized which philanthropist the refugees had swindled.
+50,1612,respected,The military man knew which soldiers the general had respected.,The military man knew which general the soldiers had respected.
+16,453,earmarked,The documentarian showed which piglets the agriculturalist had earmarked.,The documentarian showed which agriculturalist the piglets had earmarked.
+16,489,bonded,The documentarian showed which agriculturalist the piglets had bonded.,The documentarian showed which piglets the agriculturalist had bonded.
+31,963,interviewed,The investigator discovered which couple the abductor had interviewed.,The investigator discovered which abductor the couple had interviewed.
+10,254,eaten,The housekeeper showed which mouse the cat had eaten.,The housekeeper showed which cat the mouse had eaten.
+26,807,liked,The ringmaster recognized which cheetah the tamer had liked.,The ringmaster recognized which tamer the cheetah had liked.
+56,1882,copied,The art critic identified which artist the model had copied.,The art critic identified which model the artist had copied.
+40,1274,bribed,The newscaster confirmed which policeman the fugitive had bribed.,The newscaster confirmed which fugitive the policeman had bribed.
+23,698,influenced,The dance instructor noticed which performers the onlookers had influenced.,The dance instructor noticed which onlookers the performers had influenced.
+41,1331,married,The opera composer revealed which pirate the singer had married.,The opera composer revealed which singer the pirate had married.
+48,1545,appointed,The committee member guessed which advisors the president had appointed.,The committee member guessed which president the advisors had appointed.
+14,420,cried,The birthday boy saw which friend the clown had cried.,The birthday boy saw which clown the friend had cried.
+6,139,defeated,The judo master recognized which assailant the defender had defeated.,The judo master recognized which defender the assailant had defeated.
+43,1403,noticed,The producer observed which acrobats the viewers had noticed.,The producer observed which viewers the acrobats had noticed.
+47,1515,eaten,The boatman saw which shark the diver had eaten.,The boatman saw which diver the shark had eaten.
+52,1719,contacted,The policeman knew which suspect the detective had contacted.,The policeman knew which detective the suspect had contacted.
+5,113,attacked,The park ranger documented which hunter the eagle had attacked.,The park ranger documented which eagle the hunter had attacked.
+9,244,killed,The head nun explained which friar the temptress had killed.,The head nun explained which temptress the friar had killed.
+48,1567,conferred,The committee member guessed which president the advisors had conferred.,The committee member guessed which advisors the president had conferred.
+40,1272,seen,The newscaster confirmed which fugitive the policeman had seen.,The newscaster confirmed which policeman the fugitive had seen.
+14,383,taken,The birthday boy saw which clown the friend had taken.,The birthday boy saw which friend the clown had taken.
+22,680,sought,The camper reported which bear the girl had sought.,The camper reported which girl the bear had sought.
+6,136,damaged,The judo master recognized which assailant the defender had damaged.,The judo master recognized which defender the assailant had damaged.
+51,1666,talked to,The parole officer confirmed which delinquent the psychologist had talked to.,The parole officer confirmed which psychologist the delinquent had talked to.
+36,1121,spoken,Tonia explained which conman the housewife had spoken.,Tonia explained which housewife the conman had spoken.
+38,1191,supported,The campaign volunteer speculated which voters the mayor had supported.,The campaign volunteer speculated which mayor the voters had supported.
+35,1085,fled,The undead king recognized which zombie the woman had fled.,The undead king recognized which woman the zombie had fled.
+3,75,hurt,The firefighter reported which paramedic the victim had hurt.,The firefighter reported which victim the paramedic had hurt.
+41,1324,heard,The opera composer revealed which singer the pirate had heard.,The opera composer revealed which pirate the singer had heard.
+54,1796,spoken,Jack observed which conductor the passenger had spoken.,Jack observed which passenger the conductor had spoken.
+57,1910,punched,The cotton farmer wondered which slave the master had punched.,The cotton farmer wondered which master the slave had punched.
+18,549,asked,The royal cook asked which chef the lord had asked.,The royal cook asked which lord the chef had asked.
+22,683,run from,The camper reported which bear the girl had run from.,The camper reported which girl the bear had run from.
+44,1438,joked,The queen recognized which nobleman the comedian had joked.,The queen recognized which comedian the nobleman had joked.
+10,253,found,The housekeeper showed which cat the mouse had found.,The housekeeper showed which mouse the cat had found.
+50,1644,killed,The military man knew which general the soldiers had killed.,The military man knew which soldiers the general had killed.
+40,1299,known,The newscaster confirmed which policeman the fugitive had known.,The newscaster confirmed which fugitive the policeman had known.
+48,1551,spoken to,The committee member guessed which president the advisors had spoken to.,The committee member guessed which advisors the president had spoken to.
+12,343,loved,The researcher learned which whale the biologist had loved.,The researcher learned which biologist the whale had loved.
+51,1681,interviewed,The parole officer confirmed which delinquent the psychologist had interviewed.,The parole officer confirmed which psychologist the delinquent had interviewed.
+33,1040,killed,The sailor saw which whale the man had killed.,The sailor saw which man the whale had killed.
+40,1275,shot,The newscaster confirmed which fugitive the policeman had shot.,The newscaster confirmed which policeman the fugitive had shot.
+49,1593,injured,The farmer indicated which donkey the townsperson had injured.,The farmer indicated which townsperson the donkey had injured.
+37,1168,heard,The broadcaster explained which contestant the judge had heard.,The broadcaster explained which judge the contestant had heard.
+31,958,suspected,The investigator discovered which couple the abductor had suspected.,The investigator discovered which abductor the couple had suspected.
+50,1629,stood,The military man knew which general the soldiers had stood.,The military man knew which soldiers the general had stood.
+23,709,impressed,The dance instructor noticed which onlookers the performers had impressed.,The dance instructor noticed which performers the onlookers had impressed.
+18,528,chosen,The royal cook asked which lord the chef had chosen.,The royal cook asked which chef the lord had chosen.
+60,2038,observed,The security guard investigated which patrolman the loiterer had observed.,The security guard investigated which loiterer the patrolman had observed.
+36,1117,raped,Tonia explained which housewife the conman had raped.,Tonia explained which conman the housewife had raped.
+17,516,killed,The police officer noted which burglar the jeweler had killed.,The police officer noted which jeweler the burglar had killed.
+51,1653,visited,The parole officer confirmed which delinquent the psychologist had visited.,The parole officer confirmed which psychologist the delinquent had visited.
+16,483,tagged,The documentarian showed which agriculturalist the piglets had tagged.,The documentarian showed which piglets the agriculturalist had tagged.
+33,1019,harpooned,The sailor saw which whale the man had harpooned.,The sailor saw which man the whale had harpooned.
+27,815,disliked,The travel agent recorded which innkeeper the guests had disliked.,The travel agent recorded which guests the innkeeper had disliked.
+56,1894,robbed,The art critic identified which model the artist had robbed.,The art critic identified which artist the model had robbed.
+25,762,been rescued by,The parent saw which child the lifeguard had been rescued by.,The parent saw which lifeguard the child had been rescued by.
+49,1605,known,The farmer indicated which donkey the townsperson had known.,The farmer indicated which townsperson the donkey had known.
+1,7,watched,The librarian documented which celebrities the journalist had watched.,The librarian documented which journalist the celebrities had watched.
+37,1144,favored,The broadcaster explained which judge the contestant had favored.,The broadcaster explained which contestant the judge had favored.
+33,1016,eaten,The sailor saw which whale the man had eaten.,The sailor saw which man the whale had eaten.
+36,1106,hated,Tonia explained which conman the housewife had hated.,Tonia explained which housewife the conman had hated.
+5,122,landed,The park ranger documented which eagle the hunter had landed.,The park ranger documented which hunter the eagle had landed.
+56,1899,made,The art critic identified which artist the model had made.,The art critic identified which model the artist had made.
+48,1547,endorsed,The committee member guessed which president the advisors had endorsed.,The committee member guessed which advisors the president had endorsed.
+8,209,served,The restaurant owner forgot which customer the waitress had served.,The restaurant owner forgot which waitress the customer had served.
+11,304,asked,The nanny knew which billionaire the housekeeper had asked.,The nanny knew which housekeeper the billionaire had asked.
+45,1468,attended,The reporter inquired which animals the groomer had attended.,The reporter inquired which groomer the animals had attended.
+19,557,disliked,The trapeze artist indicated which trainer the lion had disliked.,The trapeze artist indicated which lion the trainer had disliked.
+60,2000,attacked,The security guard investigated which loiterer the patrolman had attacked.,The security guard investigated which patrolman the loiterer had attacked.
+21,651,admired,The aid worker realized which philanthropist the refugees had admired.,The aid worker realized which refugees the philanthropist had admired.
+12,323,stabbed,The researcher learned which biologist the whale had stabbed.,The researcher learned which whale the biologist had stabbed.
+55,1842,talked to,Teresa knew which neighbor the parrot had talked to.,Teresa knew which parrot the neighbor had talked to.
+54,1797,spoken to,Jack observed which conductor the passenger had spoken to.,Jack observed which passenger the conductor had spoken to.
+60,2014,ignored,The security guard investigated which loiterer the patrolman had ignored.,The security guard investigated which patrolman the loiterer had ignored.
+45,1464,used,The reporter inquired which animals the groomer had used.,The reporter inquired which groomer the animals had used.
+50,1622,taken down,The military man knew which soldiers the general had taken down.,The military man knew which general the soldiers had taken down.
+9,216,been,The head nun explained which friar the temptress had been.,The head nun explained which temptress the friar had been.
+29,894,imitated,The costume designer confirmed which actor the barber had imitated.,The costume designer confirmed which barber the actor had imitated.
+3,58,been saved by,The firefighter reported which victim the paramedic had been saved by.,The firefighter reported which paramedic the victim had been saved by.
+7,170,tracked,The naturalist observed which deer the predators had tracked.,The naturalist observed which predators the deer had tracked.
+31,955,fired,The investigator discovered which abductor the couple had fired.,The investigator discovered which couple the abductor had fired.
+4,96,caught,The historian documented which assassin the prince had caught.,The historian documented which prince the assassin had caught.
+43,1383,bothered,The producer observed which acrobats the viewers had bothered.,The producer observed which viewers the acrobats had bothered.
+43,1379,fallen on,The producer observed which viewers the acrobats had fallen on.,The producer observed which acrobats the viewers had fallen on.
+19,568,punched,The trapeze artist indicated which trainer the lion had punched.,The trapeze artist indicated which lion the trainer had punched.
+40,1286,gotten,The newscaster confirmed which policeman the fugitive had gotten.,The newscaster confirmed which fugitive the policeman had gotten.
+46,1508,captured,The ape researcher identified which chimpanzee the poacher had captured.,The ape researcher identified which poacher the chimpanzee had captured.
+4,100,accused,The historian documented which assassin the prince had accused.,The historian documented which prince the assassin had accused.
+20,622,stretched,The wildlife curator mentioned which zookeeper the ape had stretched.,The wildlife curator mentioned which ape the zookeeper had stretched.
+12,341,observed,The researcher learned which whale the biologist had observed.,The researcher learned which biologist the whale had observed.
+42,1371,beaten,The prison warden guessed which jailer the inmate had beaten.,The prison warden guessed which inmate the jailer had beaten.
+17,511,hit,The police officer noted which burglar the jeweler had hit.,The police officer noted which jeweler the burglar had hit.
+37,1186,mistaken,The broadcaster explained which contestant the judge had mistaken.,The broadcaster explained which judge the contestant had mistaken.
+9,242,laid with,The head nun explained which temptress the friar had laid with.,The head nun explained which friar the temptress had laid with.
+33,1041,drowned,The sailor saw which whale the man had drowned.,The sailor saw which man the whale had drowned.
+46,1496,shot,The ape researcher identified which chimpanzee the poacher had shot.,The ape researcher identified which poacher the chimpanzee had shot.
+7,175,run from,The naturalist observed which predators the deer had run from.,The naturalist observed which deer the predators had run from.
+41,1307,spotted,The opera composer revealed which singer the pirate had spotted.,The opera composer revealed which pirate the singer had spotted.
+1,1,threatened,The librarian documented which celebrities the journalist had threatened.,The librarian documented which journalist the celebrities had threatened.
+22,684,identified,The camper reported which girl the bear had identified.,The camper reported which bear the girl had identified.
+17,515,accused,The police officer noted which burglar the jeweler had accused.,The police officer noted which jeweler the burglar had accused.
+19,575,hurt,The trapeze artist indicated which lion the trainer had hurt.,The trapeze artist indicated which trainer the lion had hurt.
+52,1711,conned,The policeman knew which detective the suspect had conned.,The policeman knew which suspect the detective had conned.
+49,1586,purchased,The farmer indicated which donkey the townsperson had purchased.,The farmer indicated which townsperson the donkey had purchased.
+4,90,sought,The historian documented which prince the assassin had sought.,The historian documented which assassin the prince had sought.
+46,1509,bitten,The ape researcher identified which chimpanzee the poacher had bitten.,The ape researcher identified which poacher the chimpanzee had bitten.
+49,1576,eaten,The farmer indicated which townsperson the donkey had eaten.,The farmer indicated which donkey the townsperson had eaten.
+31,945,witnessed,The investigator discovered which abductor the couple had witnessed.,The investigator discovered which couple the abductor had witnessed.
+1,24,harassed,The librarian documented which journalist the celebrities had harassed.,The librarian documented which celebrities the journalist had harassed.
+39,1251,wanted,The family counselor understood which stepparent the daughter had wanted.,The family counselor understood which daughter the stepparent had wanted.
+20,599,seen,The wildlife curator mentioned which zookeeper the ape had seen.,The wildlife curator mentioned which ape the zookeeper had seen.
+5,117,encroached,The park ranger documented which eagle the hunter had encroached.,The park ranger documented which hunter the eagle had encroached.
+7,165,assassinated,The naturalist observed which predators the deer had assassinated.,The naturalist observed which deer the predators had assassinated.
+49,1582,borrowed,The farmer indicated which donkey the townsperson had borrowed.,The farmer indicated which townsperson the donkey had borrowed.
+31,940,taken,The investigator discovered which couple the abductor had taken.,The investigator discovered which abductor the couple had taken.
+12,321,amazed,The researcher learned which whale the biologist had amazed.,The researcher learned which biologist the whale had amazed.
+19,585,mauled,The trapeze artist indicated which lion the trainer had mauled.,The trapeze artist indicated which trainer the lion had mauled.
+50,1627,promoted,The military man knew which general the soldiers had promoted.,The military man knew which soldiers the general had promoted.
+14,375,pointed,The birthday boy saw which friend the clown had pointed.,The birthday boy saw which clown the friend had pointed.
+8,190,seen,The restaurant owner forgot which waitress the customer had seen.,The restaurant owner forgot which customer the waitress had seen.
+44,1437,wanted,The queen recognized which comedian the nobleman had wanted.,The queen recognized which nobleman the comedian had wanted.
+57,1935,hurt,The cotton farmer wondered which slave the master had hurt.,The cotton farmer wondered which master the slave had hurt.
+51,1663,fought,The parole officer confirmed which psychologist the delinquent had fought.,The parole officer confirmed which delinquent the psychologist had fought.
+19,578,kicked,The trapeze artist indicated which trainer the lion had kicked.,The trapeze artist indicated which lion the trainer had kicked.
+29,898,hired,The costume designer confirmed which actor the barber had hired.,The costume designer confirmed which barber the actor had hired.
+58,1962,sold,The farmhand recorded which breeder the goats had sold.,The farmhand recorded which goats the breeder had sold.
+42,1356,stabbed,The prison warden guessed which jailer the inmate had stabbed.,The prison warden guessed which inmate the jailer had stabbed.
+32,1009,let go,The jail keeper forgot which guard the prisoner had let go.,The jail keeper forgot which prisoner the guard had let go.
+47,1521,seen,The boatman saw which diver the shark had seen.,The boatman saw which shark the diver had seen.
+53,1736,taken,The priest knew which demon the exorcist had taken.,The priest knew which exorcist the demon had taken.
+41,1337,robbed,The opera composer revealed which pirate the singer had robbed.,The opera composer revealed which singer the pirate had robbed.
+33,1026,scared,The sailor saw which man the whale had scared.,The sailor saw which whale the man had scared.
+2,36,described,The old widower remembered which ghost the villager had described.,The old widower remembered which villager the ghost had described.
+26,808,hurt,The ringmaster recognized which tamer the cheetah had hurt.,The ringmaster recognized which cheetah the tamer had hurt.
+2,46,destroyed,The old widower remembered which villager the ghost had destroyed.,The old widower remembered which ghost the villager had destroyed.
+47,1519,skinned,The boatman saw which diver the shark had skinned.,The boatman saw which shark the diver had skinned.
+57,1915,purchased,The cotton farmer wondered which slave the master had purchased.,The cotton farmer wondered which master the slave had purchased.
+5,123,dive-bombed,The park ranger documented which eagle the hunter had dive-bombed.,The park ranger documented which hunter the eagle had dive-bombed.
+10,270,run,The housekeeper showed which mouse the cat had run.,The housekeeper showed which cat the mouse had run.
+29,892,seen,The costume designer confirmed which barber the actor had seen.,The costume designer confirmed which actor the barber had seen.
+39,1265,told,The family counselor understood which daughter the stepparent had told.,The family counselor understood which stepparent the daughter had told.
+57,1918,hired,The cotton farmer wondered which master the slave had hired.,The cotton farmer wondered which slave the master had hired.
+54,1799,heard,Jack observed which conductor the passenger had heard.,Jack observed which passenger the conductor had heard.
+46,1499,escaped,The ape researcher identified which poacher the chimpanzee had escaped.,The ape researcher identified which chimpanzee the poacher had escaped.
+40,1269,attacked,The newscaster confirmed which fugitive the policeman had attacked.,The newscaster confirmed which policeman the fugitive had attacked.
+33,1025,stabbed,The sailor saw which man the whale had stabbed.,The sailor saw which whale the man had stabbed.
+2,43,encountered,The old widower remembered which villager the ghost had encountered.,The old widower remembered which ghost the villager had encountered.
+25,765,followed,The parent saw which child the lifeguard had followed.,The parent saw which lifeguard the child had followed.
+55,1835,repeated,Teresa knew which neighbor the parrot had repeated.,Teresa knew which parrot the neighbor had repeated.
+21,662,given,The aid worker realized which philanthropist the refugees had given.,The aid worker realized which refugees the philanthropist had given.
+24,738,played,The high schooler heard which geek the jock had played.,The high schooler heard which jock the geek had played.
+18,532,fed,The royal cook asked which chef the lord had fed.,The royal cook asked which lord the chef had fed.
+32,993,run,The jail keeper forgot which guard the prisoner had run.,The jail keeper forgot which prisoner the guard had run.
+56,1891,called,The art critic identified which model the artist had called.,The art critic identified which artist the model had called.
+18,541,sponsored,The royal cook asked which chef the lord had sponsored.,The royal cook asked which lord the chef had sponsored.
+32,1008,asked about,The jail keeper forgot which guard the prisoner had asked about.,The jail keeper forgot which prisoner the guard had asked about.
+19,567,clawed,The trapeze artist indicated which trainer the lion had clawed.,The trapeze artist indicated which lion the trainer had clawed.
+14,386,seen,The birthday boy saw which clown the friend had seen.,The birthday boy saw which friend the clown had seen.
+28,886,filmed,The bird watcher saw which hawk the photographer had filmed.,The bird watcher saw which photographer the hawk had filmed.
+42,1346,seen,The prison warden guessed which jailer the inmate had seen.,The prison warden guessed which inmate the jailer had seen.
+20,591,feared,The wildlife curator mentioned which ape the zookeeper had feared.,The wildlife curator mentioned which zookeeper the ape had feared.
+38,1196,suckered,The campaign volunteer speculated which mayor the voters had suckered.,The campaign volunteer speculated which voters the mayor had suckered.
+15,452,liked,The columnist publicized which photographer the celebrity had liked.,The columnist publicized which celebrity the photographer had liked.
+38,1212,identified,The campaign volunteer speculated which mayor the voters had identified.,The campaign volunteer speculated which voters the mayor had identified.
+60,1996,eaten,The security guard investigated which patrolman the loiterer had eaten.,The security guard investigated which loiterer the patrolman had eaten.
+18,537,invited,The royal cook asked which lord the chef had invited.,The royal cook asked which chef the lord had invited.
+13,355,spoken,Tracy announced which administrator the applicant had spoken.,Tracy announced which applicant the administrator had spoken.
+34,1076,killed,The sheriff recalled which gangsters the locals had killed.,The sheriff recalled which locals the gangsters had killed.
+13,358,fired,Tracy announced which administrator the applicant had fired.,Tracy announced which applicant the administrator had fired.
+3,60,used,The firefighter reported which paramedic the victim had used.,The firefighter reported which victim the paramedic had used.
+55,1829,pecked,Teresa knew which neighbor the parrot had pecked.,Teresa knew which parrot the neighbor had pecked.
+60,2008,walked,The security guard investigated which loiterer the patrolman had walked.,The security guard investigated which patrolman the loiterer had walked.
+41,1332,mimicked,The opera composer revealed which pirate the singer had mimicked.,The opera composer revealed which singer the pirate had mimicked.
+20,611,scared,The wildlife curator mentioned which zookeeper the ape had scared.,The wildlife curator mentioned which ape the zookeeper had scared.
+58,1964,tested,The farmhand recorded which goats the breeder had tested.,The farmhand recorded which breeder the goats had tested.
+36,1139,lost,Tonia explained which housewife the conman had lost.,Tonia explained which conman the housewife had lost.
+16,482,studied,The documentarian showed which agriculturalist the piglets had studied.,The documentarian showed which piglets the agriculturalist had studied.
+6,133,maimed,The judo master recognized which defender the assailant had maimed.,The judo master recognized which assailant the defender had maimed.
+48,1550,spoken,The committee member guessed which advisors the president had spoken.,The committee member guessed which president the advisors had spoken.
+18,526,seen,The royal cook asked which lord the chef had seen.,The royal cook asked which chef the lord had seen.
+54,1770,helped,Jack observed which passenger the conductor had helped.,Jack observed which conductor the passenger had helped.
+11,306,killed,The nanny knew which billionaire the housekeeper had killed.,The nanny knew which housekeeper the billionaire had killed.
+46,1513,hurt,The ape researcher identified which chimpanzee the poacher had hurt.,The ape researcher identified which poacher the chimpanzee had hurt.
+36,1134,run,Tonia explained which conman the housewife had run.,Tonia explained which housewife the conman had run.
+40,1290,noticed,The newscaster confirmed which fugitive the policeman had noticed.,The newscaster confirmed which policeman the fugitive had noticed.
+15,427,attacked,The columnist publicized which celebrity the photographer had attacked.,The columnist publicized which photographer the celebrity had attacked.
+14,413,hugged,The birthday boy saw which friend the clown had hugged.,The birthday boy saw which clown the friend had hugged.
+46,1500,obeyed,The ape researcher identified which poacher the chimpanzee had obeyed.,The ape researcher identified which chimpanzee the poacher had obeyed.
+5,125,swooped,The park ranger documented which hunter the eagle had swooped.,The park ranger documented which eagle the hunter had swooped.
+43,1402,gathered,The producer observed which acrobats the viewers had gathered.,The producer observed which viewers the acrobats had gathered.
+56,1888,posed for,The art critic identified which model the artist had posed for.,The art critic identified which artist the model had posed for.
+17,498,chosen,The police officer noted which burglar the jeweler had chosen.,The police officer noted which jeweler the burglar had chosen.
+3,70,treated,The firefighter reported which paramedic the victim had treated.,The firefighter reported which victim the paramedic had treated.
+55,1860,killed,Teresa knew which neighbor the parrot had killed.,Teresa knew which parrot the neighbor had killed.
+53,1751,banished,The priest knew which demon the exorcist had banished.,The priest knew which exorcist the demon had banished.
+51,1672,saved,The parole officer confirmed which psychologist the delinquent had saved.,The parole officer confirmed which delinquent the psychologist had saved.
+59,1988,ridden,The four-year-old knew which dragon the hero had ridden.,The four-year-old knew which hero the dragon had ridden.
+27,827,fought,The travel agent recorded which guests the innkeeper had fought.,The travel agent recorded which innkeeper the guests had fought.
+57,1914,chosen,The cotton farmer wondered which slave the master had chosen.,The cotton farmer wondered which master the slave had chosen.
+16,477,touched,The documentarian showed which agriculturalist the piglets had touched.,The documentarian showed which piglets the agriculturalist had touched.
+45,1467,abused,The reporter inquired which animals the groomer had abused.,The reporter inquired which groomer the animals had abused.
+51,1652,referred,The parole officer confirmed which psychologist the delinquent had referred.,The parole officer confirmed which delinquent the psychologist had referred.
+56,1871,sculpted,The art critic identified which artist the model had sculpted.,The art critic identified which model the artist had sculpted.
+11,280,visited,The nanny knew which housekeeper the billionaire had visited.,The nanny knew which billionaire the housekeeper had visited.
+11,300,conned,The nanny knew which billionaire the housekeeper had conned.,The nanny knew which housekeeper the billionaire had conned.
+4,98,defended,The historian documented which prince the assassin had defended.,The historian documented which assassin the prince had defended.
+44,1435,roasted,The queen recognized which comedian the nobleman had roasted.,The queen recognized which nobleman the comedian had roasted.
+18,524,visited,The royal cook asked which chef the lord had visited.,The royal cook asked which lord the chef had visited.
+27,853,loved,The travel agent recorded which guests the innkeeper had loved.,The travel agent recorded which innkeeper the guests had loved.
+43,1399,ogled,The producer observed which viewers the acrobats had ogled.,The producer observed which acrobats the viewers had ogled.
+45,1482,cleaned,The reporter inquired which groomer the animals had cleaned.,The reporter inquired which animals the groomer had cleaned.
+45,1472,combed,The reporter inquired which groomer the animals had combed.,The reporter inquired which animals the groomer had combed.
+20,614,gotten out of,The wildlife curator mentioned which zookeeper the ape had gotten out of.,The wildlife curator mentioned which ape the zookeeper had gotten out of.
+4,94,fingered,The historian documented which prince the assassin had fingered.,The historian documented which assassin the prince had fingered.
+56,1881,belonged,The art critic identified which model the artist had belonged.,The art critic identified which artist the model had belonged.
+37,1182,kicked out,The broadcaster explained which contestant the judge had kicked out.,The broadcaster explained which judge the contestant had kicked out.
+11,286,murdered,The nanny knew which billionaire the housekeeper had murdered.,The nanny knew which housekeeper the billionaire had murdered.
+14,409,kicked,The birthday boy saw which clown the friend had kicked.,The birthday boy saw which friend the clown had kicked.
+14,378,screamed,The birthday boy saw which friend the clown had screamed.,The birthday boy saw which clown the friend had screamed.
+42,1357,smacked,The prison warden guessed which jailer the inmate had smacked.,The prison warden guessed which inmate the jailer had smacked.
+34,1073,accused,The sheriff recalled which gangsters the locals had accused.,The sheriff recalled which locals the gangsters had accused.
+55,1855,bought,Teresa knew which neighbor the parrot had bought.,Teresa knew which parrot the neighbor had bought.
+31,943,used,The investigator discovered which abductor the couple had used.,The investigator discovered which couple the abductor had used.
+27,811,helped,The travel agent recorded which innkeeper the guests had helped.,The travel agent recorded which guests the innkeeper had helped.
+28,863,scratched,The bird watcher saw which photographer the hawk had scratched.,The bird watcher saw which hawk the photographer had scratched.
+38,1215,wanted,The campaign volunteer speculated which voters the mayor had wanted.,The campaign volunteer speculated which mayor the voters had wanted.
+11,285,bribed,The nanny knew which billionaire the housekeeper had bribed.,The nanny knew which housekeeper the billionaire had bribed.
+31,956,stolen,The investigator discovered which couple the abductor had stolen.,The investigator discovered which abductor the couple had stolen.
+7,182,known,The naturalist observed which predators the deer had known.,The naturalist observed which deer the predators had known.
+13,366,considered,Tracy announced which administrator the applicant had considered.,Tracy announced which applicant the administrator had considered.
+27,834,complimented,The travel agent recorded which guests the innkeeper had complimented.,The travel agent recorded which innkeeper the guests had complimented.
+54,1790,ticketed,Jack observed which passenger the conductor had ticketed.,Jack observed which conductor the passenger had ticketed.
+44,1419,laughed,The queen recognized which comedian the nobleman had laughed.,The queen recognized which nobleman the comedian had laughed.
+23,692,favored,The dance instructor noticed which performers the onlookers had favored.,The dance instructor noticed which onlookers the performers had favored.
+37,1152,seen,The broadcaster explained which contestant the judge had seen.,The broadcaster explained which judge the contestant had seen.
+12,330,executed,The researcher learned which biologist the whale had executed.,The researcher learned which whale the biologist had executed.
+9,237,stolen,The head nun explained which friar the temptress had stolen.,The head nun explained which temptress the friar had stolen.
+56,1890,interpreted,The art critic identified which model the artist had interpreted.,The art critic identified which artist the model had interpreted.
+60,2012,seen,The security guard investigated which patrolman the loiterer had seen.,The security guard investigated which loiterer the patrolman had seen.
+1,19,covered,The librarian documented which celebrities the journalist had covered.,The librarian documented which journalist the celebrities had covered.
+59,1992,escaped,The four-year-old knew which dragon the hero had escaped.,The four-year-old knew which hero the dragon had escaped.
+44,1452,embarrassed,The queen recognized which nobleman the comedian had embarrassed.,The queen recognized which comedian the nobleman had embarrassed.
+12,320,harpooned,The researcher learned which biologist the whale had harpooned.,The researcher learned which whale the biologist had harpooned.
+53,1760,removed,The priest knew which exorcist the demon had removed.,The priest knew which demon the exorcist had removed.
+14,377,laughed at,The birthday boy saw which friend the clown had laughed at.,The birthday boy saw which clown the friend had laughed at.
+1,5,met,The librarian documented which celebrities the journalist had met.,The librarian documented which journalist the celebrities had met.
+19,577,hit,The trapeze artist indicated which lion the trainer had hit.,The trapeze artist indicated which trainer the lion had hit.
+37,1172,hit,The broadcaster explained which contestant the judge had hit.,The broadcaster explained which judge the contestant had hit.
+39,1243,refused,The family counselor understood which daughter the stepparent had refused.,The family counselor understood which stepparent the daughter had refused.
+13,370,won,Tracy announced which applicant the administrator had won.,Tracy announced which administrator the applicant had won.
+7,179,poached,The naturalist observed which predators the deer had poached.,The naturalist observed which deer the predators had poached.
+58,1963,shaved,The farmhand recorded which breeder the goats had shaved.,The farmhand recorded which goats the breeder had shaved.
+54,1784,jostled,Jack observed which passenger the conductor had jostled.,Jack observed which conductor the passenger had jostled.
+30,922,purchased,The Indian king identified which prince the elephant had purchased.,The Indian king identified which elephant the prince had purchased.
+19,570,fought,The trapeze artist indicated which trainer the lion had fought.,The trapeze artist indicated which lion the trainer had fought.
+46,1510,killed,The ape researcher identified which chimpanzee the poacher had killed.,The ape researcher identified which poacher the chimpanzee had killed.
+8,202,yelled,The restaurant owner forgot which waitress the customer had yelled.,The restaurant owner forgot which customer the waitress had yelled.
+44,1448,picked,The queen recognized which nobleman the comedian had picked.,The queen recognized which comedian the nobleman had picked.
+19,562,visited,The trapeze artist indicated which lion the trainer had visited.,The trapeze artist indicated which trainer the lion had visited.
+32,986,escaped,The jail keeper forgot which prisoner the guard had escaped.,The jail keeper forgot which guard the prisoner had escaped.
+3,67,identified,The firefighter reported which paramedic the victim had identified.,The firefighter reported which victim the paramedic had identified.
+43,1389,witnessed,The producer observed which acrobats the viewers had witnessed.,The producer observed which viewers the acrobats had witnessed.
+37,1166,paid,The broadcaster explained which judge the contestant had paid.,The broadcaster explained which contestant the judge had paid.
+24,750,hurt,The high schooler heard which geek the jock had hurt.,The high schooler heard which jock the geek had hurt.
+11,288,chosen,The nanny knew which housekeeper the billionaire had chosen.,The nanny knew which billionaire the housekeeper had chosen.
+41,1313,chosen,The opera composer revealed which pirate the singer had chosen.,The opera composer revealed which singer the pirate had chosen.
+44,1441,recommended,The queen recognized which comedian the nobleman had recommended.,The queen recognized which nobleman the comedian had recommended.
+32,1002,bitten,The jail keeper forgot which guard the prisoner had bitten.,The jail keeper forgot which prisoner the guard had bitten.
+28,875,surprised,The bird watcher saw which photographer the hawk had surprised.,The bird watcher saw which hawk the photographer had surprised.
+1,2,found,The librarian documented which journalist the celebrities had found.,The librarian documented which celebrities the journalist had found.
+13,361,worked,Tracy announced which administrator the applicant had worked.,Tracy announced which applicant the administrator had worked.
+56,1897,drawn,The art critic identified which artist the model had drawn.,The art critic identified which model the artist had drawn.
+20,607,selected,The wildlife curator mentioned which ape the zookeeper had selected.,The wildlife curator mentioned which zookeeper the ape had selected.
+4,84,murdered,The historian documented which prince the assassin had murdered.,The historian documented which assassin the prince had murdered.
+51,1656,used,The parole officer confirmed which psychologist the delinquent had used.,The parole officer confirmed which delinquent the psychologist had used.
+30,919,thrown,The Indian king identified which elephant the prince had thrown.,The Indian king identified which prince the elephant had thrown.
+30,930,stampeded,The Indian king identified which prince the elephant had stampeded.,The Indian king identified which elephant the prince had stampeded.
+19,583,lost,The trapeze artist indicated which trainer the lion had lost.,The trapeze artist indicated which lion the trainer had lost.
+24,742,harassed,The high schooler heard which geek the jock had harassed.,The high schooler heard which jock the geek had harassed.
+29,909,served,The costume designer confirmed which actor the barber had served.,The costume designer confirmed which barber the actor had served.
+50,1614,taught,The military man knew which soldiers the general had taught.,The military man knew which general the soldiers had taught.
+56,1898,interviewed,The art critic identified which model the artist had interviewed.,The art critic identified which artist the model had interviewed.
+27,831,talked to,The travel agent recorded which innkeeper the guests had talked to.,The travel agent recorded which guests the innkeeper had talked to.
+24,728,kissed,The high schooler heard which geek the jock had kissed.,The high schooler heard which jock the geek had kissed.
+24,723,pointed,The high schooler heard which jock the geek had pointed.,The high schooler heard which geek the jock had pointed.
+15,445,married,The columnist publicized which celebrity the photographer had married.,The columnist publicized which photographer the celebrity had married.
+47,1526,noticed,The boatman saw which diver the shark had noticed.,The boatman saw which shark the diver had noticed.
+11,290,eloped,The nanny knew which housekeeper the billionaire had eloped.,The nanny knew which billionaire the housekeeper had eloped.
+11,296,enjoyed,The nanny knew which housekeeper the billionaire had enjoyed.,The nanny knew which billionaire the housekeeper had enjoyed.
+41,1314,fought,The opera composer revealed which pirate the singer had fought.,The opera composer revealed which singer the pirate had fought.
+44,1416,met,The queen recognized which comedian the nobleman had met.,The queen recognized which nobleman the comedian had met.
+58,1943,attacked,The farmhand recorded which goats the breeder had attacked.,The farmhand recorded which breeder the goats had attacked.
+20,593,attacked,The wildlife curator mentioned which zookeeper the ape had attacked.,The wildlife curator mentioned which ape the zookeeper had attacked.
+34,1059,shot,The sheriff recalled which gangsters the locals had shot.,The sheriff recalled which locals the gangsters had shot.
+22,673,attacked,The camper reported which girl the bear had attacked.,The camper reported which bear the girl had attacked.
+4,103,killed,The historian documented which prince the assassin had killed.,The historian documented which assassin the prince had killed.
+48,1561,talked,The committee member guessed which advisors the president had talked.,The committee member guessed which president the advisors had talked.
+24,735,disrespected,The high schooler heard which geek the jock had disrespected.,The high schooler heard which jock the geek had disrespected.
+23,691,pointed,The dance instructor noticed which onlookers the performers had pointed.,The dance instructor noticed which performers the onlookers had pointed.
+23,720,loved,The dance instructor noticed which performers the onlookers had loved.,The dance instructor noticed which onlookers the performers had loved.
+8,194,charmed,The restaurant owner forgot which customer the waitress had charmed.,The restaurant owner forgot which waitress the customer had charmed.
+22,679,fought,The camper reported which girl the bear had fought.,The camper reported which bear the girl had fought.
+13,357,complained,Tracy announced which applicant the administrator had complained.,Tracy announced which administrator the applicant had complained.
+43,1386,performed,The producer observed which acrobats the viewers had performed.,The producer observed which viewers the acrobats had performed.
+48,1569,interviewed,The committee member guessed which president the advisors had interviewed.,The committee member guessed which advisors the president had interviewed.
+17,509,identified,The police officer noted which burglar the jeweler had identified.,The police officer noted which jeweler the burglar had identified.
+34,1047,shot at,The sheriff recalled which gangsters the locals had shot at.,The sheriff recalled which locals the gangsters had shot at.
+31,957,identified,The investigator discovered which abductor the couple had identified.,The investigator discovered which couple the abductor had identified.
+25,773,kicked,The parent saw which child the lifeguard had kicked.,The parent saw which lifeguard the child had kicked.
+33,1033,swallowed,The sailor saw which whale the man had swallowed.,The sailor saw which man the whale had swallowed.
+7,166,hunted,The naturalist observed which deer the predators had hunted.,The naturalist observed which predators the deer had hunted.
+36,1130,cooked,Tonia explained which housewife the conman had cooked.,Tonia explained which conman the housewife had cooked.
+36,1116,dated,Tonia explained which housewife the conman had dated.,Tonia explained which conman the housewife had dated.
+30,939,hurt,The Indian king identified which elephant the prince had hurt.,The Indian king identified which prince the elephant had hurt.
+9,243,accused,The head nun explained which friar the temptress had accused.,The head nun explained which temptress the friar had accused.
+43,1385,watched,The producer observed which viewers the acrobats had watched.,The producer observed which acrobats the viewers had watched.
+53,1758,tormented,The priest knew which demon the exorcist had tormented.,The priest knew which exorcist the demon had tormented.
+26,791,scratched,The ringmaster recognized which tamer the cheetah had scratched.,The ringmaster recognized which cheetah the tamer had scratched.
+60,1995,met,The security guard investigated which patrolman the loiterer had met.,The security guard investigated which loiterer the patrolman had met.
+13,369,interviewed,Tracy announced which applicant the administrator had interviewed.,Tracy announced which administrator the applicant had interviewed.
+41,1302,taken,The opera composer revealed which singer the pirate had taken.,The opera composer revealed which pirate the singer had taken.
+29,889,helped,The costume designer confirmed which barber the actor had helped.,The costume designer confirmed which actor the barber had helped.
+12,336,encountered,The researcher learned which biologist the whale had encountered.,The researcher learned which whale the biologist had encountered.
+55,1823,eaten,Teresa knew which parrot the neighbor had eaten.,Teresa knew which neighbor the parrot had eaten.
+32,981,escaped from,The jail keeper forgot which guard the prisoner had escaped from.,The jail keeper forgot which prisoner the guard had escaped from.
+31,944,kissed,The investigator discovered which abductor the couple had kissed.,The investigator discovered which couple the abductor had kissed.
+52,1717,wanted,The policeman knew which suspect the detective had wanted.,The policeman knew which detective the suspect had wanted.
+52,1691,celebrated,The policeman knew which detective the suspect had celebrated.,The policeman knew which suspect the detective had celebrated.
+53,1754,attempted,The priest knew which demon the exorcist had attempted.,The priest knew which exorcist the demon had attempted.
+21,642,funded,The aid worker realized which refugees the philanthropist had funded.,The aid worker realized which philanthropist the refugees had funded.
+43,1405,hit,The producer observed which viewers the acrobats had hit.,The producer observed which acrobats the viewers had hit.
+3,52,rescued,The firefighter reported which victim the paramedic had rescued.,The firefighter reported which paramedic the victim had rescued.
+37,1184,interviewed,The broadcaster explained which contestant the judge had interviewed.,The broadcaster explained which judge the contestant had interviewed.
+42,1341,laughed,The prison warden guessed which inmate the jailer had laughed.,The prison warden guessed which jailer the inmate had laughed.
+38,1213,listened to,The campaign volunteer speculated which voters the mayor had listened to.,The campaign volunteer speculated which mayor the voters had listened to.
+32,1004,slapped,The jail keeper forgot which prisoner the guard had slapped.,The jail keeper forgot which guard the prisoner had slapped.
+46,1505,caught,The ape researcher identified which poacher the chimpanzee had caught.,The ape researcher identified which chimpanzee the poacher had caught.
+20,613,befriended,The wildlife curator mentioned which ape the zookeeper had befriended.,The wildlife curator mentioned which zookeeper the ape had befriended.
+20,603,shot,The wildlife curator mentioned which ape the zookeeper had shot.,The wildlife curator mentioned which zookeeper the ape had shot.
+52,1706,discussed,The policeman knew which detective the suspect had discussed.,The policeman knew which suspect the detective had discussed.
+41,1310,witnessed,The opera composer revealed which pirate the singer had witnessed.,The opera composer revealed which singer the pirate had witnessed.
+46,1491,injected,The ape researcher identified which poacher the chimpanzee had injected.,The ape researcher identified which chimpanzee the poacher had injected.
+51,1678,observed,The parole officer confirmed which psychologist the delinquent had observed.,The parole officer confirmed which delinquent the psychologist had observed.
+26,790,devoured,The ringmaster recognized which tamer the cheetah had devoured.,The ringmaster recognized which cheetah the tamer had devoured.
+46,1494,murdered,The ape researcher identified which poacher the chimpanzee had murdered.,The ape researcher identified which chimpanzee the poacher had murdered.
+4,99,asked,The historian documented which assassin the prince had asked.,The historian documented which prince the assassin had asked.
+55,1852,raised,Teresa knew which parrot the neighbor had raised.,Teresa knew which neighbor the parrot had raised.
+59,1989,loved,The four-year-old knew which hero the dragon had loved.,The four-year-old knew which dragon the hero had loved.
+52,1728,robbed,The policeman knew which suspect the detective had robbed.,The policeman knew which detective the suspect had robbed.
+26,792,seen,The ringmaster recognized which tamer the cheetah had seen.,The ringmaster recognized which cheetah the tamer had seen.
+8,197,ordered,The restaurant owner forgot which customer the waitress had ordered.,The restaurant owner forgot which waitress the customer had ordered.
+60,2018,stabbed,The security guard investigated which loiterer the patrolman had stabbed.,The security guard investigated which patrolman the loiterer had stabbed.
+14,411,brought,The birthday boy saw which clown the friend had brought.,The birthday boy saw which friend the clown had brought.
+36,1143,let in,Tonia explained which conman the housewife had let in.,Tonia explained which housewife the conman had let in.
+44,1421,honored,The queen recognized which nobleman the comedian had honored.,The queen recognized which comedian the nobleman had honored.
+56,1876,painted,The art critic identified which artist the model had painted.,The art critic identified which model the artist had painted.
+43,1398,admired,The producer observed which acrobats the viewers had admired.,The producer observed which viewers the acrobats had admired.
+48,1537,met,The committee member guessed which advisors the president had met.,The committee member guessed which president the advisors had met.
+35,1097,desired,The undead king recognized which zombie the woman had desired.,The undead king recognized which woman the zombie had desired.
+21,635,donated,The aid worker realized which refugees the philanthropist had donated.,The aid worker realized which philanthropist the refugees had donated.
+5,124,spied,The park ranger documented which eagle the hunter had spied.,The park ranger documented which hunter the eagle had spied.
+49,1597,kicked,The farmer indicated which donkey the townsperson had kicked.,The farmer indicated which townsperson the donkey had kicked.
+37,1174,argued,The broadcaster explained which judge the contestant had argued.,The broadcaster explained which contestant the judge had argued.
+40,1289,caught,The newscaster confirmed which fugitive the policeman had caught.,The newscaster confirmed which policeman the fugitive had caught.
+22,676,spotted,The camper reported which girl the bear had spotted.,The camper reported which bear the girl had spotted.
+23,707,faced,The dance instructor noticed which performers the onlookers had faced.,The dance instructor noticed which onlookers the performers had faced.
+12,337,studied,The researcher learned which biologist the whale had studied.,The researcher learned which whale the biologist had studied.
+37,1148,punished,The broadcaster explained which contestant the judge had punished.,The broadcaster explained which judge the contestant had punished.
+16,475,slaughtered,The documentarian showed which agriculturalist the piglets had slaughtered.,The documentarian showed which piglets the agriculturalist had slaughtered.
+29,904,preferred,The costume designer confirmed which barber the actor had preferred.,The costume designer confirmed which actor the barber had preferred.
+57,1921,stolen,The cotton farmer wondered which slave the master had stolen.,The cotton farmer wondered which master the slave had stolen.
+39,1252,married,The family counselor understood which daughter the stepparent had married.,The family counselor understood which stepparent the daughter had married.
+15,437,followed,The columnist publicized which celebrity the photographer had followed.,The columnist publicized which photographer the celebrity had followed.
+20,625,bitten,The wildlife curator mentioned which zookeeper the ape had bitten.,The wildlife curator mentioned which ape the zookeeper had bitten.
+5,110,elected,The park ranger documented which eagle the hunter had elected.,The park ranger documented which hunter the eagle had elected.
+48,1556,decided,The committee member guessed which advisors the president had decided.,The committee member guessed which president the advisors had decided.
+3,66,resuscitated,The firefighter reported which paramedic the victim had resuscitated.,The firefighter reported which victim the paramedic had resuscitated.
+10,256,fled,The housekeeper showed which cat the mouse had fled.,The housekeeper showed which mouse the cat had fled.
+25,766,swum,The parent saw which child the lifeguard had swum.,The parent saw which lifeguard the child had swum.
+28,860,attacked,The bird watcher saw which hawk the photographer had attacked.,The bird watcher saw which photographer the hawk had attacked.
+36,1120,talked to,Tonia explained which housewife the conman had talked to.,Tonia explained which conman the housewife had talked to.
+52,1696,murdered,The policeman knew which suspect the detective had murdered.,The policeman knew which detective the suspect had murdered.
+21,636,helped,The aid worker realized which philanthropist the refugees had helped.,The aid worker realized which refugees the philanthropist had helped.
+47,1516,feared,The boatman saw which diver the shark had feared.,The boatman saw which shark the diver had feared.
+17,513,pointed to,The police officer noted which jeweler the burglar had pointed to.,The police officer noted which burglar the jeweler had pointed to.
+57,1912,murdered,The cotton farmer wondered which slave the master had murdered.,The cotton farmer wondered which master the slave had murdered.
+22,686,wandered,The camper reported which girl the bear had wandered.,The camper reported which bear the girl had wandered.
+32,982,fed,The jail keeper forgot which guard the prisoner had fed.,The jail keeper forgot which prisoner the guard had fed.
+55,1837,copied,Teresa knew which parrot the neighbor had copied.,Teresa knew which neighbor the parrot had copied.
+46,1506,hit,The ape researcher identified which poacher the chimpanzee had hit.,The ape researcher identified which chimpanzee the poacher had hit.
+57,1932,picked,The cotton farmer wondered which master the slave had picked.,The cotton farmer wondered which slave the master had picked.
+40,1283,paid,The newscaster confirmed which policeman the fugitive had paid.,The newscaster confirmed which fugitive the policeman had paid.
+24,744,beaten up,The high schooler heard which jock the geek had beaten up.,The high schooler heard which geek the jock had beaten up.
+36,1137,swindled,Tonia explained which housewife the conman had swindled.,Tonia explained which conman the housewife had swindled.
+8,186,billed,The restaurant owner forgot which customer the waitress had billed.,The restaurant owner forgot which waitress the customer had billed.
+17,500,pointed out,The police officer noted which jeweler the burglar had pointed out.,The police officer noted which burglar the jeweler had pointed out.
+45,1459,trained,The reporter inquired which animals the groomer had trained.,The reporter inquired which groomer the animals had trained.
+1,29,accused,The librarian documented which journalist the celebrities had accused.,The librarian documented which celebrities the journalist had accused.
+37,1187,angered,The broadcaster explained which judge the contestant had angered.,The broadcaster explained which contestant the judge had angered.
+18,534,hired,The royal cook asked which lord the chef had hired.,The royal cook asked which chef the lord had hired.
+18,547,bought,The royal cook asked which lord the chef had bought.,The royal cook asked which chef the lord had bought.
+27,844,stayed with,The travel agent recorded which innkeeper the guests had stayed with.,The travel agent recorded which guests the innkeeper had stayed with.
+42,1376,assaulted,The prison warden guessed which jailer the inmate had assaulted.,The prison warden guessed which inmate the jailer had assaulted.
+6,149,kicked,The judo master recognized which defender the assailant had kicked.,The judo master recognized which assailant the defender had kicked.
+43,1400,enjoyed,The producer observed which viewers the acrobats had enjoyed.,The producer observed which acrobats the viewers had enjoyed.
+14,397,played,The birthday boy saw which friend the clown had played.,The birthday boy saw which clown the friend had played.
+34,1048,targeted,The sheriff recalled which gangsters the locals had targeted.,The sheriff recalled which locals the gangsters had targeted.
+58,1941,bred,The farmhand recorded which breeder the goats had bred.,The farmhand recorded which goats the breeder had bred.
+17,502,abused,The police officer noted which jeweler the burglar had abused.,The police officer noted which burglar the jeweler had abused.
+56,1889,worked,The art critic identified which model the artist had worked.,The art critic identified which artist the model had worked.
+54,1780,witnessed,Jack observed which conductor the passenger had witnessed.,Jack observed which passenger the conductor had witnessed.
+48,1546,directed,The committee member guessed which advisors the president had directed.,The committee member guessed which president the advisors had directed.
+55,1822,squawked,Teresa knew which parrot the neighbor had squawked.,Teresa knew which neighbor the parrot had squawked.
+6,142,played,The judo master recognized which defender the assailant had played.,The judo master recognized which assailant the defender had played.
+39,1230,punished,The family counselor understood which stepparent the daughter had punished.,The family counselor understood which daughter the stepparent had punished.
+13,359,applied,Tracy announced which applicant the administrator had applied.,Tracy announced which administrator the applicant had applied.
+16,476,caught,The documentarian showed which piglets the agriculturalist had caught.,The documentarian showed which agriculturalist the piglets had caught.
+44,1434,enjoyed,The queen recognized which comedian the nobleman had enjoyed.,The queen recognized which nobleman the comedian had enjoyed.
+58,1954,noticed,The farmhand recorded which goats the breeder had noticed.,The farmhand recorded which breeder the goats had noticed.
+42,1375,romanced,The prison warden guessed which inmate the jailer had romanced.,The prison warden guessed which jailer the inmate had romanced.
+53,1753,encountered,The priest knew which demon the exorcist had encountered.,The priest knew which exorcist the demon had encountered.
+44,1432,hired,The queen recognized which comedian the nobleman had hired.,The queen recognized which nobleman the comedian had hired.
+9,228,chosen,The head nun explained which friar the temptress had chosen.,The head nun explained which temptress the friar had chosen.
+13,348,bribed,Tracy announced which applicant the administrator had bribed.,Tracy announced which administrator the applicant had bribed.
+1,32,loved,The librarian documented which journalist the celebrities had loved.,The librarian documented which celebrities the journalist had loved.
+32,1012,hurt,The jail keeper forgot which guard the prisoner had hurt.,The jail keeper forgot which prisoner the guard had hurt.
+28,857,eaten,The bird watcher saw which photographer the hawk had eaten.,The bird watcher saw which hawk the photographer had eaten.
+37,1183,won,The broadcaster explained which contestant the judge had won.,The broadcaster explained which judge the contestant had won.
+49,1574,led,The farmer indicated which donkey the townsperson had led.,The farmer indicated which townsperson the donkey had led.
+51,1667,spoken to,The parole officer confirmed which delinquent the psychologist had spoken to.,The parole officer confirmed which psychologist the delinquent had spoken to.
+8,188,tipped,The restaurant owner forgot which waitress the customer had tipped.,The restaurant owner forgot which customer the waitress had tipped.
+30,933,kicked,The Indian king identified which prince the elephant had kicked.,The Indian king identified which elephant the prince had kicked.
+32,1006,locked up,The jail keeper forgot which guard the prisoner had locked up.,The jail keeper forgot which prisoner the guard had locked up.
+36,1123,discussed,Tonia explained which housewife the conman had discussed.,Tonia explained which conman the housewife had discussed.
+40,1267,found,The newscaster confirmed which fugitive the policeman had found.,The newscaster confirmed which policeman the fugitive had found.
+43,1409,observed,The producer observed which viewers the acrobats had observed.,The producer observed which acrobats the viewers had observed.
+37,1158,selected,The broadcaster explained which judge the contestant had selected.,The broadcaster explained which contestant the judge had selected.
+50,1620,murdered,The military man knew which soldiers the general had murdered.,The military man knew which general the soldiers had murdered.
+6,147,hit,The judo master recognized which assailant the defender had hit.,The judo master recognized which defender the assailant had hit.
+52,1718,questioned,The policeman knew which suspect the detective had questioned.,The policeman knew which detective the suspect had questioned.
+45,1463,visited,The reporter inquired which animals the groomer had visited.,The reporter inquired which groomer the animals had visited.
+9,245,bedded,The head nun explained which friar the temptress had bedded.,The head nun explained which temptress the friar had bedded.
+41,1311,murdered,The opera composer revealed which singer the pirate had murdered.,The opera composer revealed which pirate the singer had murdered.
+43,1388,performed for,The producer observed which acrobats the viewers had performed for.,The producer observed which viewers the acrobats had performed for.
+23,704,stared,The dance instructor noticed which onlookers the performers had stared.,The dance instructor noticed which performers the onlookers had stared.
+29,910,made,The costume designer confirmed which actor the barber had made.,The costume designer confirmed which barber the actor had made.
+5,107,rescued,The park ranger documented which eagle the hunter had rescued.,The park ranger documented which hunter the eagle had rescued.
+54,1812,removed,Jack observed which conductor the passenger had removed.,Jack observed which passenger the conductor had removed.
+54,1810,ridden,Jack observed which conductor the passenger had ridden.,Jack observed which passenger the conductor had ridden.
+14,393,hired,The birthday boy saw which clown the friend had hired.,The birthday boy saw which friend the clown had hired.
+34,1055,spotted,The sheriff recalled which gangsters the locals had spotted.,The sheriff recalled which locals the gangsters had spotted.
+6,135,attacked,The judo master recognized which assailant the defender had attacked.,The judo master recognized which defender the assailant had attacked.
+52,1722,run away from,The policeman knew which detective the suspect had run away from.,The policeman knew which suspect the detective had run away from.
+40,1295,killed,The newscaster confirmed which policeman the fugitive had killed.,The newscaster confirmed which fugitive the policeman had killed.
+48,1566,preferred,The committee member guessed which president the advisors had preferred.,The committee member guessed which advisors the president had preferred.
+37,1161,deemed,The broadcaster explained which judge the contestant had deemed.,The broadcaster explained which contestant the judge had deemed.
+51,1651,fled,The parole officer confirmed which psychologist the delinquent had fled.,The parole officer confirmed which delinquent the psychologist had fled.
+58,1955,hit,The farmhand recorded which goats the breeder had hit.,The farmhand recorded which breeder the goats had hit.
+56,1868,met,The art critic identified which artist the model had met.,The art critic identified which model the artist had met.
+44,1440,married,The queen recognized which nobleman the comedian had married.,The queen recognized which comedian the nobleman had married.
+23,718,observed,The dance instructor noticed which onlookers the performers had observed.,The dance instructor noticed which performers the onlookers had observed.
+25,768,changed,The parent saw which child the lifeguard had changed.,The parent saw which lifeguard the child had changed.
+54,1807,touched,Jack observed which passenger the conductor had touched.,Jack observed which conductor the passenger had touched.
+38,1205,coerced,The campaign volunteer speculated which mayor the voters had coerced.,The campaign volunteer speculated which voters the mayor had coerced.
+14,417,played with,The birthday boy saw which clown the friend had played with.,The birthday boy saw which friend the clown had played with.
+37,1176,kicked,The broadcaster explained which contestant the judge had kicked.,The broadcaster explained which judge the contestant had kicked.
+41,1303,attacked,The opera composer revealed which singer the pirate had attacked.,The opera composer revealed which pirate the singer had attacked.
+56,1875,seen,The art critic identified which artist the model had seen.,The art critic identified which model the artist had seen.
+2,44,become,The old widower remembered which villager the ghost had become.,The old widower remembered which ghost the villager had become.
+1,31,interviewed,The librarian documented which celebrities the journalist had interviewed.,The librarian documented which journalist the celebrities had interviewed.
+52,1685,apprehended,The policeman knew which suspect the detective had apprehended.,The policeman knew which detective the suspect had apprehended.
+24,724,helped,The high schooler heard which geek the jock had helped.,The high schooler heard which jock the geek had helped.
+26,803,beaten,The ringmaster recognized which cheetah the tamer had beaten.,The ringmaster recognized which tamer the cheetah had beaten.
+37,1175,voted,The broadcaster explained which judge the contestant had voted.,The broadcaster explained which contestant the judge had voted.
+16,468,spoken,The documentarian showed which agriculturalist the piglets had spoken.,The documentarian showed which piglets the agriculturalist had spoken.
+1,25,written,The librarian documented which journalist the celebrities had written.,The librarian documented which celebrities the journalist had written.
+38,1218,picked,The campaign volunteer speculated which voters the mayor had picked.,The campaign volunteer speculated which mayor the voters had picked.
+51,1674,counselled,The parole officer confirmed which psychologist the delinquent had counselled.,The parole officer confirmed which delinquent the psychologist had counselled.
+51,1669,scammed,The parole officer confirmed which delinquent the psychologist had scammed.,The parole officer confirmed which psychologist the delinquent had scammed.
+19,558,feared,The trapeze artist indicated which lion the trainer had feared.,The trapeze artist indicated which trainer the lion had feared.
+37,1147,awarded,The broadcaster explained which contestant the judge had awarded.,The broadcaster explained which judge the contestant had awarded.
+42,1352,shot,The prison warden guessed which jailer the inmate had shot.,The prison warden guessed which inmate the jailer had shot.
+17,499,shot,The police officer noted which jeweler the burglar had shot.,The police officer noted which burglar the jeweler had shot.
+58,1960,bought,The farmhand recorded which goats the breeder had bought.,The farmhand recorded which breeder the goats had bought.
+30,913,stepped,The Indian king identified which prince the elephant had stepped.,The Indian king identified which elephant the prince had stepped.
+15,433,shot,The columnist publicized which celebrity the photographer had shot.,The columnist publicized which photographer the celebrity had shot.
+53,1757,wanted,The priest knew which demon the exorcist had wanted.,The priest knew which exorcist the demon had wanted.
+2,34,thrilled,The old widower remembered which villager the ghost had thrilled.,The old widower remembered which ghost the villager had thrilled.
+6,137,come from,The judo master recognized which assailant the defender had come from.,The judo master recognized which defender the assailant had come from.
+25,764,yelled at,The parent saw which lifeguard the child had yelled at.,The parent saw which child the lifeguard had yelled at.
+18,543,worked,The royal cook asked which lord the chef had worked.,The royal cook asked which chef the lord had worked.
+49,1580,kept,The farmer indicated which donkey the townsperson had kept.,The farmer indicated which townsperson the donkey had kept.
+33,1028,swum,The sailor saw which whale the man had swum.,The sailor saw which man the whale had swum.
+50,1623,fought,The military man knew which soldiers the general had fought.,The military man knew which general the soldiers had fought.
+31,952,kidnapped,The investigator discovered which abductor the couple had kidnapped.,The investigator discovered which couple the abductor had kidnapped.
+35,1094,chased,The undead king recognized which woman the zombie had chased.,The undead king recognized which zombie the woman had chased.
+15,431,bribed,The columnist publicized which celebrity the photographer had bribed.,The columnist publicized which photographer the celebrity had bribed.
+25,761,seen,The parent saw which lifeguard the child had seen.,The parent saw which child the lifeguard had seen.
+55,1824,taken,Teresa knew which neighbor the parrot had taken.,Teresa knew which parrot the neighbor had taken.
+6,156,hurt,The judo master recognized which assailant the defender had hurt.,The judo master recognized which defender the assailant had hurt.
+36,1132,identified,Tonia explained which conman the housewife had identified.,Tonia explained which housewife the conman had identified.
+34,1066,identified,The sheriff recalled which gangsters the locals had identified.,The sheriff recalled which locals the gangsters had identified.
+51,1661,framed,The parole officer confirmed which delinquent the psychologist had framed.,The parole officer confirmed which psychologist the delinquent had framed.
+29,891,used,The costume designer confirmed which barber the actor had used.,The costume designer confirmed which actor the barber had used.
+39,1226,disliked,The family counselor understood which stepparent the daughter had disliked.,The family counselor understood which daughter the stepparent had disliked.
+45,1465,seen,The reporter inquired which animals the groomer had seen.,The reporter inquired which groomer the animals had seen.
+23,717,communicated,The dance instructor noticed which performers the onlookers had communicated.,The dance instructor noticed which onlookers the performers had communicated.
+10,272,bitten,The housekeeper showed which cat the mouse had bitten.,The housekeeper showed which mouse the cat had bitten.
+26,788,whipped,The ringmaster recognized which tamer the cheetah had whipped.,The ringmaster recognized which cheetah the tamer had whipped.
+17,506,scammed,The police officer noted which burglar the jeweler had scammed.,The police officer noted which jeweler the burglar had scammed.
+16,472,grown,The documentarian showed which piglets the agriculturalist had grown.,The documentarian showed which agriculturalist the piglets had grown.
+34,1044,found,The sheriff recalled which gangsters the locals had found.,The sheriff recalled which locals the gangsters had found.
+52,1720,accused,The policeman knew which suspect the detective had accused.,The policeman knew which detective the suspect had accused.
+54,1786,thrown,Jack observed which conductor the passenger had thrown.,Jack observed which passenger the conductor had thrown.
+38,1211,rejected,The campaign volunteer speculated which voters the mayor had rejected.,The campaign volunteer speculated which mayor the voters had rejected.
+5,118,spotted,The park ranger documented which eagle the hunter had spotted.,The park ranger documented which hunter the eagle had spotted.
+2,39,appeared,The old widower remembered which ghost the villager had appeared.,The old widower remembered which villager the ghost had appeared.
+60,2024,talked,The security guard investigated which loiterer the patrolman had talked.,The security guard investigated which patrolman the loiterer had talked.
+15,446,photographed,The columnist publicized which celebrity the photographer had photographed.,The columnist publicized which photographer the celebrity had photographed.
+19,586,known,The trapeze artist indicated which trainer the lion had known.,The trapeze artist indicated which lion the trainer had known.
+57,1905,cared for,The cotton farmer wondered which slave the master had cared for.,The cotton farmer wondered which master the slave had cared for.
+34,1053,celebrated,The sheriff recalled which gangsters the locals had celebrated.,The sheriff recalled which locals the gangsters had celebrated.
+11,303,married,The nanny knew which housekeeper the billionaire had married.,The nanny knew which billionaire the housekeeper had married.
+1,22,stalked,The librarian documented which celebrities the journalist had stalked.,The librarian documented which journalist the celebrities had stalked.
+34,1074,beaten,The sheriff recalled which gangsters the locals had beaten.,The sheriff recalled which locals the gangsters had beaten.
+55,1834,punched,Teresa knew which parrot the neighbor had punched.,Teresa knew which neighbor the parrot had punched.
+57,1924,run,The cotton farmer wondered which master the slave had run.,The cotton farmer wondered which slave the master had run.
+52,1698,cuffed,The policeman knew which detective the suspect had cuffed.,The policeman knew which suspect the detective had cuffed.
+36,1109,seduced,Tonia explained which conman the housewife had seduced.,Tonia explained which housewife the conman had seduced.
+54,1789,shot,Jack observed which passenger the conductor had shot.,Jack observed which conductor the passenger had shot.
+58,1944,left,The farmhand recorded which goats the breeder had left.,The farmhand recorded which breeder the goats had left.
+9,221,fallen,The head nun explained which friar the temptress had fallen.,The head nun explained which temptress the friar had fallen.
+33,1039,hugged,The sailor saw which whale the man had hugged.,The sailor saw which man the whale had hugged.
+39,1255,accused,The family counselor understood which daughter the stepparent had accused.,The family counselor understood which stepparent the daughter had accused.
+53,1741,risen,The priest knew which exorcist the demon had risen.,The priest knew which demon the exorcist had risen.
+29,888,trimmed,The costume designer confirmed which barber the actor had trimmed.,The costume designer confirmed which actor the barber had trimmed.
+18,552,baked,The royal cook asked which chef the lord had baked.,The royal cook asked which lord the chef had baked.
+10,265,scared,The housekeeper showed which mouse the cat had scared.,The housekeeper showed which cat the mouse had scared.
+50,1642,reprimanded,The military man knew which soldiers the general had reprimanded.,The military man knew which general the soldiers had reprimanded.
+38,1203,frauded,The campaign volunteer speculated which mayor the voters had frauded.,The campaign volunteer speculated which voters the mayor had frauded.
+19,556,trained,The trapeze artist indicated which lion the trainer had trained.,The trapeze artist indicated which trainer the lion had trained.
+4,77,tortured,The historian documented which prince the assassin had tortured.,The historian documented which assassin the prince had tortured.
+12,335,discovered,The researcher learned which biologist the whale had discovered.,The researcher learned which whale the biologist had discovered.
+35,1093,retreated,The undead king recognized which zombie the woman had retreated.,The undead king recognized which woman the zombie had retreated.
+45,1469,groomed,The reporter inquired which groomer the animals had groomed.,The reporter inquired which animals the groomer had groomed.
+16,478,called,The documentarian showed which agriculturalist the piglets had called.,The documentarian showed which piglets the agriculturalist had called.
+33,1023,seen,The sailor saw which man the whale had seen.,The sailor saw which whale the man had seen.
+48,1536,helped,The committee member guessed which advisors the president had helped.,The committee member guessed which president the advisors had helped.
+40,1268,taken,The newscaster confirmed which fugitive the policeman had taken.,The newscaster confirmed which policeman the fugitive had taken.
+26,801,brought,The ringmaster recognized which tamer the cheetah had brought.,The ringmaster recognized which cheetah the tamer had brought.
+39,1261,assaulted,The family counselor understood which daughter the stepparent had assaulted.,The family counselor understood which stepparent the daughter had assaulted.
+60,2028,hit,The security guard investigated which loiterer the patrolman had hit.,The security guard investigated which patrolman the loiterer had hit.
+54,1779,rigged,Jack observed which conductor the passenger had rigged.,Jack observed which passenger the conductor had rigged.
+37,1169,denied,The broadcaster explained which contestant the judge had denied.,The broadcaster explained which judge the contestant had denied.
+7,173,hurt,The naturalist observed which predators the deer had hurt.,The naturalist observed which deer the predators had hurt.
+56,1872,used,The art critic identified which artist the model had used.,The art critic identified which model the artist had used.
+43,1408,preferred,The producer observed which viewers the acrobats had preferred.,The producer observed which acrobats the viewers had preferred.
+8,187,forgotten,The restaurant owner forgot which waitress the customer had forgotten.,The restaurant owner forgot which customer the waitress had forgotten.
+6,132,bested,The judo master recognized which assailant the defender had bested.,The judo master recognized which defender the assailant had bested.
+27,821,refunded,The travel agent recorded which innkeeper the guests had refunded.,The travel agent recorded which guests the innkeeper had refunded.
+55,1866,cried,Teresa knew which parrot the neighbor had cried.,Teresa knew which neighbor the parrot had cried.
+9,239,preferred,The head nun explained which temptress the friar had preferred.,The head nun explained which friar the temptress had preferred.
+26,789,scolded,The ringmaster recognized which cheetah the tamer had scolded.,The ringmaster recognized which tamer the cheetah had scolded.
+45,1475,gone to,The reporter inquired which groomer the animals had gone to.,The reporter inquired which animals the groomer had gone to.
+24,725,fled,The high schooler heard which geek the jock had fled.,The high schooler heard which jock the geek had fled.
+30,927,paid,The Indian king identified which elephant the prince had paid.,The Indian king identified which prince the elephant had paid.
+54,1816,killed,Jack observed which passenger the conductor had killed.,Jack observed which conductor the passenger had killed.
+54,1772,trained,Jack observed which conductor the passenger had trained.,Jack observed which passenger the conductor had trained.
+14,390,chosen,The birthday boy saw which clown the friend had chosen.,The birthday boy saw which friend the clown had chosen.
+18,545,called,The royal cook asked which chef the lord had called.,The royal cook asked which lord the chef had called.
+35,1082,met,The undead king recognized which zombie the woman had met.,The undead king recognized which woman the zombie had met.
+57,1925,hit,The cotton farmer wondered which master the slave had hit.,The cotton farmer wondered which slave the master had hit.
+60,2003,left,The security guard investigated which patrolman the loiterer had left.,The security guard investigated which loiterer the patrolman had left.
+57,1928,captured,The cotton farmer wondered which slave the master had captured.,The cotton farmer wondered which master the slave had captured.
+36,1115,murdered,Tonia explained which housewife the conman had murdered.,Tonia explained which conman the housewife had murdered.
+27,826,inquired,The travel agent recorded which guests the innkeeper had inquired.,The travel agent recorded which innkeeper the guests had inquired.
+60,1994,found,The security guard investigated which loiterer the patrolman had found.,The security guard investigated which patrolman the loiterer had found.
+36,1135,accused,Tonia explained which housewife the conman had accused.,Tonia explained which conman the housewife had accused.
+26,784,taught,The ringmaster recognized which cheetah the tamer had taught.,The ringmaster recognized which tamer the cheetah had taught.
+26,805,killed,The ringmaster recognized which tamer the cheetah had killed.,The ringmaster recognized which cheetah the tamer had killed.
+39,1253,preferred,The family counselor understood which daughter the stepparent had preferred.,The family counselor understood which stepparent the daughter had preferred.
+4,106,buried,The historian documented which assassin the prince had buried.,The historian documented which prince the assassin had buried.
+40,1288,injured,The newscaster confirmed which fugitive the policeman had injured.,The newscaster confirmed which policeman the fugitive had injured.
+11,277,tricked,The nanny knew which housekeeper the billionaire had tricked.,The nanny knew which billionaire the housekeeper had tricked.
+32,984,begged,The jail keeper forgot which prisoner the guard had begged.,The jail keeper forgot which guard the prisoner had begged.
+12,332,noticed,The researcher learned which biologist the whale had noticed.,The researcher learned which whale the biologist had noticed.
+36,1129,gypped,Tonia explained which conman the housewife had gypped.,Tonia explained which housewife the conman had gypped.
+1,11,chosen,The librarian documented which journalist the celebrities had chosen.,The librarian documented which celebrities the journalist had chosen.
+10,266,escaped,The housekeeper showed which cat the mouse had escaped.,The housekeeper showed which mouse the cat had escaped.
+22,682,escaped,The camper reported which bear the girl had escaped.,The camper reported which girl the bear had escaped.
+42,1364,conned,The prison warden guessed which jailer the inmate had conned.,The prison warden guessed which inmate the jailer had conned.
+54,1792,arrested,Jack observed which passenger the conductor had arrested.,Jack observed which conductor the passenger had arrested.
+56,1884,hired,The art critic identified which model the artist had hired.,The art critic identified which artist the model had hired.
+57,1931,forgiven,The cotton farmer wondered which master the slave had forgiven.,The cotton farmer wondered which slave the master had forgiven.
+36,1113,seen,Tonia explained which conman the housewife had seen.,Tonia explained which housewife the conman had seen.
+22,681,chased,The camper reported which girl the bear had chased.,The camper reported which bear the girl had chased.
+5,126,injured,The park ranger documented which hunter the eagle had injured.,The park ranger documented which eagle the hunter had injured.
+35,1101,killed,The undead king recognized which zombie the woman had killed.,The undead king recognized which woman the zombie had killed.
+24,740,shoved,The high schooler heard which jock the geek had shoved.,The high schooler heard which geek the jock had shoved.
+55,1850,heard,Teresa knew which neighbor the parrot had heard.,Teresa knew which parrot the neighbor had heard.
