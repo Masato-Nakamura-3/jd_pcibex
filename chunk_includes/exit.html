@@ -1,0 +1,68 @@
+﻿<script language="javascript" type="text/javascript">
+function randomString() {
+  var chars = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXTZabcdefghiklmnopqrstuvwxyz";
+  var string_length = 8;
+  var randomstring = '';
+  for (var i=0; i<string_length; i++) {
+    var rnum = Math.floor(Math.random() * chars.length);
+    randomstring += chars.substring(rnum,rnum+1);
+  }
+  document.randform.identifier.value = randomstring;
+}
+</script>
+
+
+<h3> Thank you for participating! </h3> 
+
+In order to receive compensation for your participation, please complete the 3 steps below: <br> <br>
+<ol>
+<li> Please enter your <b>Amazon Worker ID</b> below. 
+<br>
+<table>
+<tr>
+  <td colspan="1"> Amazon Worker ID:
+</td>
+</tr>
+<tr>
+  <td colspan="1">
+    <textarea name="worker_id" rows="1" cols="20" class="obligatory"></textarea>
+  </td>
+</tr>
+</table>
+</li>
+
+<br>
+<br>
+
+<li> Click below to generate a <b>unique indentifier</b>. Please enter this identifier into the MTurk webpage that directed you here. 
+<br>
+<table>
+<tr>
+  <td colspan="1">
+      Unique Identifier:
+  </td>
+</tr>
+<tr>
+  <td>
+    <form name="randform">
+      <input type="button" value="Create unique identifier" onClick="randomString();">&nbsp;
+      <input type="text" name="identifier" value="" class="obligatory">
+    </form>
+  </td>
+</tr>
+</table>
+</li>
+
+<br>
+<br>
+
+<li> Proceed to the next page to receive the <b>experiment code</b>. You will need to enter this code into the MTurk webpage that directed you here.<br>
+
+<br>
+
+  
+<u>CLICK BELOW TO SEND DATA TO SERVER AND RECEIVE EXPERIMENT CODE</u> <br>
+It may take a few minutes for the recording data to send to the server. Once the data has successfully uploaded, you will receive the experiment code to paste into the MTurk page to receive payment.
+<br><br>
+
+The experiment program might fail to upload the recordings due to some technical issues. In that case, please download the adio file from a link that will be presented and follow the instructions on the MTurk webpage to upload it.
