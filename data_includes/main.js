@@ -1,7 +1,22 @@
 PennController.ResetPrefix()
 
+function getRandomStr(){
+    const LENGTH = 4
+    const SOURCE = "abcdefghijklmnopqrstuvwxyz"
+    let result = ''
+
+    for(let i=0; i<LENGTH; i++){
+        result += SOURCE[Math.floor(Math.random() * SOURCE.length)];
+  }
+
+  return result
+}
+
+// Generate a subject ID
+const subject_id = getRandomStr()
+
 Template(
-    GetTable("jud_list1.csv")
+    GetTable("short_list1.csv")
     , row =>
     newTrial("mcq_t" ,
         newText("sentence_1", row.s1)
@@ -31,6 +46,7 @@ Template(
             .vertical()
             .radio()
             .print()
+            .log("last")
         ,
         newText("sp2", "<br>")
             .print()
@@ -40,4 +56,24 @@ Template(
             .wait( getScale("Scale").test.selected() )
 
         )
+        .log("subject_id", subject_id)
+        .log("context_id", row.context_id)
+        .log("pair_id", row.pair_id)
+        .log("verb", row.verb)
+        .log("list_id", row.list_id)
     )
+
+
+newTrial("exit_form",
+    newFunction( ()=>$("body").removeClass('standout') ).call(),
+    newHtml("exit", "exit_readonly.html")
+        .print()
+        .log("worker_id","identifier"),
+    newButton("Upload the data and see the experiment code")
+        .print()
+        .wait(getHtml("exit").test.complete()
+            .failure( getHtml("exit").warn() ))
+
+)
+.log("subject_id", subject_id)
+.setOption("hideProgressBar", true);
