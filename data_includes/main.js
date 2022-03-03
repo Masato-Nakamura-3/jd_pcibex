@@ -1,13 +1,13 @@
 PennController.ResetPrefix()
 
 Template(
-    GetTable("resp_list_mwy_latest.csv")
+    GetTable("jud_list1.csv")
     , row =>
     newTrial("mcq_t" ,
-        newText("sentence_1", row.sentence1)
+        newText("sentence_1", row.s1)
             .print()
         ,
-        newText("sentence_2", row.sentence2)
+        newText("sentence_2", row.s2)
             .print()
         ,
         newText("sp1","<br>")
