@@ -16,7 +16,7 @@ function getRandomStr(){
 const subject_id = getRandomStr()
 
 Template(
-    GetTable("short_list1.csv")
+    GetTable("jud_list1.csv")
     , row =>
     newTrial("mcq_t" ,
         newText("sentence_1", row.s1)
