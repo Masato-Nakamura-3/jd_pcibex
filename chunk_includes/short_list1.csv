@@ -1,0 +1,11 @@
+context_id,pair_id,verb,s1,s2,list_id
+15,432,chosen,A: The columnist publicized which photographer the celebrity had chosen.,B: The columnist publicized which celebrity the photographer had chosen.,1
+36,1129,gypped,A: Tonia explained which conman the housewife had gypped.,B: Tonia explained which housewife the conman had gypped.,1
+49,1599,spit on,A: The farmer indicated which townsperson the donkey had spit on.,B: The farmer indicated which donkey the townsperson had spit on.,1
+60,2004,committed,A: The security guard investigated which loiterer the patrolman had committed.,B: The security guard investigated which patrolman the loiterer had committed.,1
+6,151,beaten,A: The judo master recognized which assailant the defender had beaten.,B: The judo master recognized which defender the assailant had beaten.,1
+48,1545,appointed,A: The committee member guessed which advisors the president had appointed.,B: The committee member guessed which president the advisors had appointed.,1
+50,1640,beaten,A: The military man knew which soldiers the general had beaten.,B: The military man knew which general the soldiers had beaten.,1
+44,1447,spoofed,A: The queen recognized which nobleman the comedian had spoofed.,B: The queen recognized which comedian the nobleman had spoofed.,1
+35,1103,loved,A: The undead king recognized which woman the zombie had loved.,B: The undead king recognized which zombie the woman had loved.,1
+50,1612,respected,A: The military man knew which soldiers the general had respected.,B: The military man knew which general the soldiers had respected.,1
