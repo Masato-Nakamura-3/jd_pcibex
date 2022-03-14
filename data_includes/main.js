@@ -264,8 +264,9 @@ newTrial("exit_form",
         .print()
         .wait(getHtml("exit").test.complete()
             .failure( getHtml("exit").warn() ))
-
-).setOption("hideProgressBar", true);
+          )
+          .log("subject_id", subject_id)
+          .setOption("hideProgressBar", true);
 
 newTrial("exit",
     newHtml("exit2","exit2.html")
@@ -274,8 +275,3 @@ newTrial("exit",
     newTimer("timer_exit",1)
         .wait()
 ).setOption("hideProgressBar", true);
-
-
-)
-.log("subject_id", subject_id)
-.setOption("hideProgressBar", true);
