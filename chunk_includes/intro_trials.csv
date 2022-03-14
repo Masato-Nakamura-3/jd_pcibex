@@ -1,0 +1,25 @@
+s1,s2,answer,block,label
+A: The father recalled which boy the dog had loved.,B: The father recalled which dog the boy had loved.,both_p,example,0
+A: The mother wondered which neighbor the milkman had seen.,B: The mother wondered which milkman the neighbor had seen.,both_p,example,0
+A: The monk recalled which sinner the priest had helped.,B: The monk recalled which priest the sinner had helped.,a_p,example,1
+A: The scientist noted which antelope the lion had eaten.,B: The scientist noted which lion the antelope had eaten.,a_p,example,1
+A: The journalist reported which politician the voters had bribed.,B: The journalist reported which voters the politician had bribed.,b_p,example,2
+A: The teacher remembered which principal the delinquent had suspended.,B: The teacher remembered which delinquent the principal had suspended.,b_p,example,2
+A: The superintendent overheard which realtor the landlord had evicted.,B: The superintendent overheard which landlord the realtor had evicted.,n_p,example,3
+A: The sentry knew which townsperson the captain had great.,B: The sentry knew which captain the townsperson had great.,n_p,example,3
+A: The anthropologist discovered which caveman the animal had attacked.,B: The anthropologist discovered which animal the caveman had attacked.,both_p,practice,0
+A: The secretary confirmed which illustrator the author had hired.,B: The secretary confirmed which author the illustrator had hired.,a_p,practice,1
+A: The columnist publicized which supermodel the stylist had chosen.,B: The columnist publicized which stylist the supermodel had chosen.,b_p,practice,2
+A: Spencer guessed which actress the admirer had forgotten.,B: Spencer guessed which admirer the actress had forgotten.,b_p,practice,2
+A: The homeowner asked which insects the exterminator had killed.,B: The homeowner asked which exterminator the insects had killed.,a_p,practice,1
+A: The barkeeper knew which regulars the troublemakers had kicked out.,B: The barkeeper knew which troublemakers the regulars had kicked out.,b_p,practice,2
+A: The parent noticed which child the insects had caught.,B: The parent noticed which insects the child had caught.,b_p,practice,2
+A: The captain realized which stowaway the sailor had swum.,B: The captain realized which sailor the stowaway had swum.,n_p,practice,3
+A: The author revealed which hero the ogre had fought.,B: The author revealed which ogre the hero had fought.,both_p,practice,0
+A: The editor listed which orphans the philanthropist had saved.,B: The editor listed which philanthropist the orphans had saved.,a_p,practice,1
+A: The butler speculated which guests the master had eaten.,B: The butler speculated which master the guests had eaten.,n_p,practice,3
+A: The secret serviceman concealed which assassin the agent had run.,B: The secret serviceman concealed which agent the assassin had run.,n_p,practice,3
+A: Sandra observed which zookeeper the biologists had talked to.,B: Sandra observed which biologists the zookeeper had talked to.,both_p,practice,0
+A: The historian recorded which king the traitor had assassinated.,B: The historian recorded which traitor the king had assassinated.,both_p,practice,0
+A: The priest mentioned which archbishop the nun had really.,B: The priest mentioned which nun the archbishop had really.,n_p,practice,3
+A: The stenographer recorded which defendant the judge had sentenced.,B: The stenographer recorded which judge the defendant had sentenced.,a_p,practice,1
