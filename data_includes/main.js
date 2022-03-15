@@ -1,7 +1,7 @@
 PennController.ResetPrefix()
 
 
-Sequence("consent_form", "introduction", "instruction", "example", "instruction_practice", "practice", "instruction_exit", shuffle(randomize("experiment")), "exit_form", "exit");
+Sequence("consent_form", "introduction", "instruction", "example", "instruction_practice", "practice", "instruction_exit", shuffle(randomize("experiment")), "exit_form", SendResults(), "exit");
 
 
 function getRandomStr(){
