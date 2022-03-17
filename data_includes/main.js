@@ -118,7 +118,7 @@ Template(
         newText("sp2", "<br>")
             .print()
         ,
-        newTimer(10000)
+        newTimer(6000)
           .start()
           .wait()
         ,
