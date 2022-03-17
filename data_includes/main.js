@@ -54,10 +54,20 @@ newTrial("instruction",
     newHtml("instruction.html")
         .print()
     ,
+    newButton("Proceed")
+        .print()
+        .wait()
+    ).setOption("hideProgressBar", true);
+
+newTrial("pre_example",
+    newHtml("pre_example.html")
+        .print()
+    ,
     newButton("See examples")
         .print()
         .wait()
     ).setOption("hideProgressBar", true);
+
 
 
 // Example
@@ -66,6 +76,9 @@ Template(
         .filter("block", "example")
     , row =>
     newTrial("example" ,
+        newText("heading_p", "<h3>Examples</h3>")
+            .print()
+        ,
         newText("sentence_1", row.s1)
             .print()
         ,
@@ -105,6 +118,10 @@ Template(
         newText("sp2", "<br>")
             .print()
         ,
+        newTimer(10000)
+          .start()
+          .wait()
+        ,
         newButton("Proceed")
             .print()
             .wait(getScale("Scale").test.selected())
@@ -128,6 +145,9 @@ Template(
         .filter("block", "practice")
     , row =>
     newTrial("practice" ,
+        newText("heading_p", "<h3>Practice session</h3>")
+                .print()
+        ,
         newText("sentence_1", row.s1)
             .print()
         ,
